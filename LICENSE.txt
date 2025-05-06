@@ -1,0 +1,75 @@
+End-User Software License Agreement
+
+Preamble
+This End-User Software License Agreement (“Agreement”) governs the use, modification, and distribution of the software product described below (“Software,” “Product,” or “Application”). For the purposes of this Agreement, the term “Software” shall refer to the entire directory of files, subdirectories, and executable programs comprising the product in any released version.
+
+1. Definitions
+1.1 Software: The complete collection of files, directories, executables, and associated resources provided to the end user under this Agreement.
+1.2 Owner: The current legal proprietor of the website promisedsoftware.com, which, as of May 1, 2025, shall be the owner of the Software in all its present and future versions.
+1.3 Modified Version: Any version of the Software that has been altered, enhanced, or adapted in any form beyond its original, unaltered state.
+
+2. Grant of License
+2.1 The Software is licensed, not sold, to the end user subject to the terms of this Agreement.
+2.2 The end user is granted a non-transferable, non-exclusive right to use the Software on a personal or organizational basis under the conditions herein.
+
+3. Permitted Use and Distribution
+3.1 The Software may be distributed or shared with others only if it remains in its original, unmodified form.
+3.2 Redistribution of the Software must include a clear and unmistakable attribution to promisedsoftware.com as the origin of the Software.
+3.3 Use of the Software is limited to local environments (e.g., localhost or a secure private network). The Software is strictly prohibited from being deployed as a public web server, web service, or any similar networked service beyond a closed, non-public scope.
+
+4. Modification and Redistribution of Modified Versions
+4.1 End users are permitted to modify the Software exclusively for private use.
+4.2 Any modified version may not be redistributed, resold, or otherwise transmitted to third parties unless the end user holds ownership rights or explicit, written consent from the Owner is provided.
+4.3 Modifications intended for redistribution must be provided as standalone files, separate from the original Software package, and must include complete documentation that clearly identifies the modifications made, so as to prevent any confusion regarding the provenance of the original product.
+
+5. Prohibitions on Commercial Exploitation
+5.1 No party may sell, license, or otherwise monetize the Software or any Modified Version for profit, including the bundling of the Software with paid services, subscriptions, or any other form of financial benefit, without obtaining prior, explicit written permission from the Owner.
+
+6. Ownership and Transfer Restrictions
+6.1 Ownership of the Software remains with the Owner as defined in Section 1.2.
+6.2 The transfer of ownership or rights to the Software, or any claim thereof, is strictly prohibited unless a separate, legally binding agreement is entered into with the Owner, evidenced by a duly signed contract or clear written consent.
+
+7. Security and Risk Disclaimer
+7.1 The Software is provided “as is” without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+7.2 Users acknowledge that the Software has not been designed as a security-critical system. Access to components and endpoints (including any APIs or interfaces) is intended to be open, and no security, authentication, or authorization measures are provided by the Software. Use of the Software shall be solely at the risk of the user.
+
+8. Liability and Indemnification
+8.1 The end user is solely responsible for any consequences arising from the use, modification, or distribution of the Software.
+8.2 In no event shall the Owner be liable for any indirect, consequential, or incidental damages arising out of the use or inability to use the Software.
+8.3 Should a Modified Version of the Software be distributed in violation of this Agreement and result in harm or damages, any affected party reserves the right to seek legal redress directly against the distributor of such Modified Version.
+
+9. Enforcement and Remedies for Breach
+9.1 Violation of any of the terms set forth in this Agreement will constitute a material breach, subjecting the offending party to termination of the license and any and all applicable legal remedies.
+9.2 The Owner reserves the right to seek injunctive relief and monetary damages in the event that the Software is misused or distributed in violation of these terms.
+
+10. Termination
+10.1 This Agreement is effective until terminated. Without prejudice to any other rights, the Owner may terminate this Agreement if the end user fails to comply with the terms herein.
+10.2 Upon termination, the end user must immediately cease all use, modification, and distribution of the Software and all copies thereof.
+
+11. Governing Law and Dispute Resolution
+11.1 This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Owner resides.
+11.2 Any disputes arising from this Agreement shall be resolved through negotiation or, if necessary, binding arbitration or litigation in the appropriate jurisdiction.
+
+12. Entire Agreement and Amendments
+12.1 This Agreement constitutes the entire agreement between the parties regarding the use of the Software.
+12.2 Any amendments or modifications to this Agreement must be made in writing and signed by both the Owner and the authorized representative of the end user.
+
+13. Severability
+13.1 If any provision of this Agreement is determined to be unenforceable or invalid, the remainder of the Agreement shall remain in full force and effect.
+
+14. Third-Party Components
+14.1 This Software may incorporate third-party assets, including but not limited to:
+
+Google Fonts, available at https://fonts.google.com/, licensed under the SIL Open Font License, Version 1.1.
+
+Google Material Icons, available at https://fonts.google.com/icons, licensed under the Apache License, Version 2.0.
+
+14.2 These assets are not considered proprietary components of the Software. They are incorporated only for the purpose of providing design and interface enhancements and remain subject to the terms of their respective licenses.
+
+14.3 When distributing the Software, the full texts of the licenses applicable to these third-party components must be included. These licenses are provided in full within the designated third-party licenses folder.
+
+14.4 The Owner of this Software does not claim any rights, title, or interest in the third-party components beyond what is granted by their respective licenses.
+
+This Agreement is intended to protect both the users of the Software and the Owner by clearly defining the rights and responsibilities associated with the Software. Any party that attempts to breach these terms or engage in harmful activities through misuse of the Software shall be subject to legal sanctions as provided herein.
+
+End of Agreement
